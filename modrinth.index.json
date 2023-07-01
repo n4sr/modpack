@@ -633,6 +633,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/m6sVgAi6/lithium-fabric-mc1.19.2-0.11.1.jar"
+            ],
+            "fileSize": 639001,
+            "hashes": {
+                "sha1": "072a8bad252765e0f21a6f939cf2056fe437228e",
+                "sha512": "64646e098839d6c5caa47bbc4ece187986567273b1adcb87d2a85bcaa084859b6cc5484ecced545a583fe1e693f69f0184857f0f0074e64c2da436668d34e3b7"
+            },
+            "path": "mods/lithium-fabric-mc1.19.2-0.11.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/hBVVhStr/versions/1.1.0%2B1.19/lovely_snails-1.1.0%2B1.19.jar"
             ],
             "fileSize": 135594,
@@ -652,6 +663,17 @@
                 "sha512": "992483c2296a654d414a448680eb6d1e2c0014e16fd16a31eb93e88b66b7fd96950a458877d48b6be7959dc533530189e4fefef381814fba2e7f56791d0a1eb5"
             },
             "path": "mods/midnightlib-fabric-1.0.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/gSoPJyVn/modmenu-4.2.0-beta.2.jar"
+            ],
+            "fileSize": 692192,
+            "hashes": {
+                "sha1": "6e627ee1b31f5be89e14c85e888f47463d8da9c2",
+                "sha512": "38abddc67502e3f6b08962e13777278d3e88c3ac4d22584636362fb828bd36a0f4313747cc3023afbc9d958ca7dccad13527299b05ea492f80bb6fef8d364726"
+            },
+            "path": "mods/modmenu-4.2.0-beta.2.jar"
         },
         {
             "downloads": [
@@ -718,6 +740,17 @@
                 "sha512": "e0fb8955f7c36aa3d5cd6f847b8ba0176ed4f7202750a40d65f41f58daaafb02f92705756b1319f6edb923594bd6edf01ba4246330499dbf75dd06f142a07fd9"
             },
             "path": "mods/paucal-fabric-1.19.2-0.5.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.19.x-0.8.1/phosphor-fabric-mc1.19.x-0.8.1.jar"
+            ],
+            "fileSize": 88018,
+            "hashes": {
+                "sha1": "2dd6f771ba5878d81892b9487f35340e94c87a1c",
+                "sha512": "13a0707b7a92726aa3154bc40978f36bb340d643c1d60e9fa2cbf8f7b0c7d3ea03c2a079f46a487df05e944eec9f5779afae9e99be7f70373e8a31d59948d487"
+            },
+            "path": "mods/phosphor-fabric-mc1.19.x-0.8.1.jar"
         },
         {
             "downloads": [
@@ -888,5 +921,5 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "s.n4.cx",
-    "versionId": "0.0.4"
+    "versionId": "0.0.5"
 }
