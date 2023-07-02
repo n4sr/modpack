@@ -578,6 +578,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/aBVJ6Q36/versions/bFeGsmtq/hexal-fabric-1.19.2-0.2.16.jar"
+            ],
+            "fileSize": 1863330,
+            "hashes": {
+                "sha1": "cf81f9905848e22ddb9f2876e4272fc86348ca09",
+                "sha512": "0bfbb8f567b0354c1d476259628da068ce0e5aec987ea543c477ac3cf4f177b37a7811d31b8ddb84ca947f7c6c48ce33f48a119a0c8bf36b79bd1301c8f7ae0d"
+            },
+            "path": "mods/hexal-fabric-1.19.2-0.2.16.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/nTW3yKrm/versions/IbghSN93/hexcasting-fabric-1.19.2-0.10.3.jar"
             ],
             "fileSize": 3017907,
@@ -619,6 +630,17 @@
                 "sha512": "885596f941260bb793249514186afd95c7e8bd9e6023071f104415cf8d428187cf0465bc0077350056071adbe6e9cfd2584488304b1c40b160438645bd13c53d"
             },
             "path": "mods/infinitetrading-1.19.2-4.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/W9CiRGYK/versions/VydwbqrW/infusion_table-1.2.0.jar"
+            ],
+            "fileSize": 46068,
+            "hashes": {
+                "sha1": "f52bb45ec4d9de7b60907a99224a85d8a90a50eb",
+                "sha512": "4dc283cc55d9ffc8ff1b2df4ce5e7857f0a00625a4e58de7e6438de7a10b0a76fb9b908d6c9274b0ca0d7a73c487f27d2768a5e794ee6917c8baee0750e770d4"
+            },
+            "path": "mods/infusion_table-1.2.0.jar"
         },
         {
             "downloads": [
@@ -688,6 +710,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/Jmt7p37B/versions/O6fSYKPz/moreiotas-fabric-1.19.2-0.0.4.jar"
+            ],
+            "fileSize": 19340349,
+            "hashes": {
+                "sha1": "ef86d2de4da7befdd3f525d09cb32964b8016051",
+                "sha512": "733d8f40daed90269f29a695b78f8a19bd04c80f86d927f265045863b8c88d9c865d3d35038a58ffb828ec07e0ecdca8db16acf8dbd3d864e774d130ed298349"
+            },
+            "path": "mods/moreiotas-fabric-1.19.2-0.0.4.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/F8BQNPWX/versions/ILQ8BuMi/naturalist-fabric-3.0.2-1.19.2.jar"
             ],
             "fileSize": 3716711,
@@ -696,6 +729,17 @@
                 "sha512": "265694e9b382081bd3f201b60e10f8370ecc470e873c4d71f7b0652314a9e26c324c9e21b44ea700bdb6f633aac2a1dfe8b9aa90070bc6ba5d5eea6417f1908a"
             },
             "path": "mods/naturalist-fabric-3.0.2-1.19.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Wd6j35NE/versions/y0IpAXTu/noenchantcap-fabric-1.19.2-2.2.4.jar"
+            ],
+            "fileSize": 94802,
+            "hashes": {
+                "sha1": "ac9398009537bd2ee4d6acbbe3a0e9f10a401a74",
+                "sha512": "9f4bd6b6dfd565a10fcd71f15204bf256b59ff8026cfd8ed377bb570be8a68d8542588b1c25a8752b9cb746c3d997649791501880f0a218ee0feb8e090be2fbe"
+            },
+            "path": "mods/noenchantcap-fabric-1.19.2-2.2.4.jar"
         },
         {
             "downloads": [
@@ -754,6 +798,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/5RGE5YW5/versions/MStc8Dl4/qu-enchantments-1.2.4-1.19.jar"
+            ],
+            "fileSize": 506031,
+            "hashes": {
+                "sha1": "c3a1700225ea8bd3894da6f4ad53e76c73a1ae15",
+                "sha512": "797efa2bc3b64198251546a13e050933710173bb71cfcadd201b1e82c7be9bbd4517bab7069e2e07416bd4abe2697c12d33b75cb0937c84622bfa3c86e10ef1b"
+            },
+            "path": "mods/qu-enchantments-1.2.4-1.19.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/M1953qlQ/versions/TIzyR4bY/resourcefulconfig-fabric-1.19.2-1.0.20.jar"
             ],
             "fileSize": 128481,
@@ -795,6 +850,17 @@
                 "sha512": "8fbe5ada5c45efd56596bcf0c5d93d7a7264f60263289626e9d2b0ba3b3ccc914af2d9f856596a724df675804e9766a3d890d1731957fe960c58a45f0533b34e"
             },
             "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/zbX4s3vj/versions/Gbu2vbnC/spirit-walker-0.1.1%2B1.19.jar"
+            ],
+            "fileSize": 90153,
+            "hashes": {
+                "sha1": "cc27ecad163d061b342bae4b1e6b3eb8aeb5d032",
+                "sha512": "04023c402d9542f3922892726a3f8f756c8450603c6fe67075334b5b87f1f3f87ba988ba80c28a241c5c72fe8dec0fbaa5036641e87d478f57530d6240d9303b"
+            },
+            "path": "mods/spirit-walker-0.1.1+1.19.jar"
         },
         {
             "downloads": [
@@ -850,6 +916,17 @@
                 "sha512": "220f52dfeb5d4fac2c129dfc69c143dcf337c3f2977a14a461da28c6d474f3d18d975170f3762e70f75ba9c4f32c47118becdc9ec6d0701ffbffe73d4f0603aa"
             },
             "path": "mods/vcinteraction-1.19.2-1.0.3.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/bRAPbNyF/versions/exXogAjv/veinmining-fabric-1.1.1%2B1.19.2.jar"
+            ],
+            "fileSize": 397479,
+            "hashes": {
+                "sha1": "33efe4749e735aede5502db16cab6ecd9d1c2564",
+                "sha512": "c30b8a44c87db48a27a26b7cc60eec03a6867f72256c2635b06f6698dd22566213d52d8210b902a86d5bf08b86898596fd55ce846ba6c61471df54025fa55e92"
+            },
+            "path": "mods/veinmining-fabric-1.1.1+1.19.2.jar"
         },
         {
             "downloads": [
@@ -921,5 +998,5 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "s.n4.cx",
-    "versionId": "0.0.5"
+    "versionId": "0.1.0"
 }
